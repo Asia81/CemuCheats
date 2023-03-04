@@ -1,0 +1,95 @@
+DESCRIPTION	DECIMAL ID	HEXADECIMAL ID
+NO ITEM	-1 (255)	FF
+
+<- MAIN ITEMS ->
+Bomb	49	31
+Telescope	32	20
+Tingle Bottle	33	21
+Picto Box	35	23
+Grappling Hook	37	25
+Deluxe Picto Box	38	26
+Iron Boots	41	29
+Magic Armor	42	2A
+Boomerang	45	2D
+Hookshot	47	2F
+Skull Hammer	51	33
+Deku Leaf	52	34
+
+<- HERO'S BOW ->
+Normal	39	27
+Fire - Ice	53	35
+Fire - Ice - Light	54	36
+
+<- BOTTLE ITEMS ->
+Empty Bottle	80	50
+Red Potion	81	51
+Green Potion	82	52
+Blue Potion	83	53
+Soup (Half)	84	54
+Soup (Full)	85	55
+Water	86	56
+Fairy	87	57
+Forest Firefly	88	58
+Forest Water)	89	89
+
+<- SPOILS ITEMS ->
+SPOILS BAG	36	24
+Joy Pendant	31	1F
+Skull Necklace	69	45
+Boko Baba Seed	70	46
+Golden Feather	71	47
+Knight's Crest	72	48
+Red Chu Jelly	73	49
+Green Chu Jelly	74	4A
+Blue Chu Jelly	75	4B
+
+<- BAIT ITEMS ->
+BAIT BAG	44	2C
+Hyoi Pear	-125 (131)	83
+All-Purpose Bait	-126 (130)	82
+
+<- DELIVERY ITEMS ->
+DELIVERY BAG	48	30
+Fill-Up Coupon	-98 (158)	9E
+Complimentary ID	-99 (157)	9D
+Cabana Deed	-100 (156)	9C
+Moblin's Letter	-101 (155)	9B
+Maggie's Letter	-102 (154)	9A
+Note to Mom	-103 (153)	99
+Father's Letter	-104 (152)	98
+Shop Guru Statue	-105 (151)	97
+Postman Statue	-106 (150)	96
+Fountain Idol	-107 (149)	95
+Skull Tower Idol	-108 (148)	94
+Sickle Moon Flag	-109 (147)	93
+Pinwheel	-110 (146)	92
+Big Sale Flag	-111 (145)	91
+Big Catch Flag	-112 (144)	90
+Hero's Flag	-113 (143)	8F
+Exotic Flower	-114 (142)	8E
+Sea Flower	-115 (141)	8D
+Town Flower	-116 (140)	8C
+
+<- KEY ITEMS ->
+Hero's Sword	56	38
+Master Sword	57	39
+Master Sword (Half Restored)	58	3A
+Master Sword (Fully Restored)	62	3E
+Hero's Shield	59	3B
+Mirror Shield	60	3C
+Pirate's Charm	SOON	SOON
+Sail	120	78
+Swift Sail	119	77
+Wind Waker	34	22
+Power Bracelets	40	28
+Hero's Charm	01	01
+Triforce Shard 1	SOON	SOON
+Triforce Shard 2	SOON	SOON
+Triforce Shard 3	SOON	SOON
+Triforce Shard 4	SOON	SOON
+Triforce Shard 5	SOON	SOON
+Triforce Shard 6	SOON	SOON
+Triforce Shard 7	SOON	SOON
+Nayru's Pearl	SOON	SOON
+Din's Pearl	SOON	SOON
+Farore's Pearl	SOON	SOON
