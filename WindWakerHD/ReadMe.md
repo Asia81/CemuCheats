@@ -2,8 +2,10 @@
 
 ![ZeldaWindWakerHD](ZeldaWindWakerHD.jpg)
 
-Codes are tested using both latest CEMU Stable (1.26.2f as of writing) and Experimental (2.0-28 as of writing) versions.  
-Both EUR and USA versions of the game (v0 as they don't have update) are working.
+Codes are tested using the latest CEMU (2.6 as of writing) version.
+Primarily made for the EUR Version.
+USA version is not tested on the latest CEMU, but the cheats are supposed working as they shared the same offset in earlier CEMU versions.
+Open on issue on github on report on gbatemp if you find any issues.
 
-Follow the thread on GBA Temp :  
+Follow the thread on GBA Temp for more informations on how to use :  
 https://gbatemp.net/threads/trainer-cemu-zelda-wind-waker-hd.584463/
